@@ -4,7 +4,7 @@
 python版本需求: python3
 使用前请安装 requirements.text
 ```shell
-pip install -r requirements.txt
+pip install -r requirements.text
 
 ```
 
